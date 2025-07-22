@@ -1,29 +1,30 @@
 # Aternos AFKBot ✨
-This afk bot will keep your aternos server alive 24/7
+Este bot AFK manterá seu servidor Aternos ativo 24 horas por dia, 7 dias por semana.
 
-Simple for keeping an aternos server alive, or trying to get an AFKBot on your server. 
-IT DOESN'T HAVE TO BE AN ATERNOS SERVER too! It can be any server as long as it's cracked. Uses the mineflayer tool created by MannuG. This bot unlike any other will move around, keeping the server alive. I recommend putting the bot in a bedrock casing to keep it from going everywhere and dying.
+Simples para manter um servidor Aternos ativo ou tentar colocar um AFKBot no seu servidor.
+NÃO PRECISA SER UM SERVIDOR ATERNOS! Pode ser qualquer servidor, desde que seja crackeado. Utiliza a ferramenta Mineflayer criada por MannuG. Este bot, diferente de qualquer outro, se moverá, mantendo o servidor ativo. Recomendo colocar o bot em uma carcaça Bedrock para evitar que ele vá para qualquer lugar e morra.
 
-Mainly Supports Minecraft version 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15 and 1.16.
+Suporta principalmente as versões 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15 e 1.16 do Minecraft.
 
-# Requirements 🎒
-What You'll need
+# Requisitos 🎒
+O que você precisa
 
-1. You will need a Heroku account, just a simple free one will do. Sign up at: https://signup.heroku.com/login
-2. An Aternos server, Any Minecraft Server will do, make sure it has "online-mode"set to false.
-3. A Github account (obviously)
-5. That's all you need!
+1. Você precisará de uma conta Heroku, uma conta gratuita simples bastará. Cadastre-se em: https://signup.heroku.com/login
+2. Um servidor Aternos, qualquer servidor de Minecraft serve. Certifique-se de que o "online-mode" esteja definido como falso.
+3. Uma conta no GitHub (obviamente)
+5. É tudo o que você precisa!
 
-# Setup ⚙
-1. Fork this repository, or clone the repository and make it your own
-2. Change the config file to your own aternos server
-3. Go to https://dashboard.heroku.com/ and create a new application
-4. Once you've created your application, simply go to the "Deploy" section and select the repository that you forked
-5. Select master and click on "Deploy Branch"
-6. Click on the "More" button at the top and click "Restart all Dynos"
-7. Done! Enjoy your free 24/7 aternos server
+# Configuração ⚙
+1. Faça um fork deste repositório ou clone-o e torne-o seu.
+2. Altere o arquivo de configuração para o seu próprio servidor Aternos.
+3. Acesse https://dashboard.heroku.com/ e crie um novo aplicativo.
+4. Depois de criar seu aplicativo, basta acessar a seção "Implantar" e selecionar o repositório do qual você fez o fork.
+5. Selecione o master e clique em "Implantar Branch".
+6. Clique no botão "Mais" na parte superior e clique em "Reiniciar todos os Dynos".
+7. Pronto! Aproveite seu servidor Aternos gratuito 24 horas por dia, 7 dias por semana.
 
-# CAUTION ⚠
-Aternos might detect your behavior and they might delete your account!
+# ATENÇÃO ⚠
+O Aternos pode detectar seu comportamento e excluir sua conta!
 
-You are responsible for your own actions. I do not recommend doing this on your main aternos server!
+Você é responsável por suas próprias ações. Não recomendo fazer isso no seu servidor principal do Aternos!
+ 
